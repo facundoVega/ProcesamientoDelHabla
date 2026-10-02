@@ -12,8 +12,6 @@
 ¿Puedo devolver un producto?
 ¿Cómo puedo saber si un producto está disponible?
 ¿Tenéis stock de este cómic?
-¿Qué significa que un producto esté agotado?
-¿Cuándo volverá a haber stock de un producto agotado?
 ¿Puedo reservar un producto sin stock?
 ¿Cómo puedo consultar el estado de mi pedido?
 ¿Dónde está mi pedido?
