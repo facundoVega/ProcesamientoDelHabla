@@ -82,7 +82,7 @@
   {
     "pregunta": "¿Cómo puedo saber si aún quedan unidades de un cómic?",
     "tipo": "Reformulada",
-    "esperada": "¿Cómo puedo saber si un producto está disponible?"
+    "esperada": "¿Tenéis stock de este cómic?"
   },
   {
     "pregunta": "Si un cómic está agotado, ¿es posible reservarlo?",
@@ -115,9 +115,9 @@
     "esperada": "¿Realizáis envíos a todo el país?"
   },
   {
-    "pregunta": "¿Cómo sé si todavía os queda una copia disponible?",
+    "pregunta": "¿Teneis comics en inglés ?",
     "tipo": "Nueva",
-    "esperada": "¿Cómo puedo saber si un producto está disponible?"
+    "esperada": "¿Tenéis ediciones en otros idiomas?"
   },
   {
     "pregunta": "Si el cómic llega roto o en mal estado, ¿qué debo hacer?",
