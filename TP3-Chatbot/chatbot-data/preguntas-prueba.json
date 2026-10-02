@@ -1,0 +1,127 @@
+[
+  {
+    "pregunta": "¿Qué cómics me recomiendas para empezar?",
+    "tipo": "Base",
+    "esperada": "¿Qué cómics me recomiendas para empezar?"
+  },
+  {
+    "pregunta": "¿Qué novelas gráficas son las más populares?",
+    "tipo": "Base",
+    "esperada": "¿Qué novelas gráficas son las más populares?"
+  },
+  {
+    "pregunta": "¿Tienen cómics para todas las edades?",
+    "tipo": "Base",
+    "esperada": "¿Tienen cómics para todas las edades?"
+  },
+  {
+    "pregunta": "¿Cuál es el cómic más vendido actualmente?",
+    "tipo": "Base",
+    "esperada": "¿Cuál es el cómic más vendido actualmente?"
+  },
+  {
+    "pregunta": "¿Qué métodos de pago aceptáis?",
+    "tipo": "Base",
+    "esperada": "¿Qué métodos de pago aceptáis?"
+  },
+  {
+    "pregunta": "¿Puedo devolver un producto?",
+    "tipo": "Base",
+    "esperada": "¿Puedo devolver un producto?"
+  },
+  {
+    "pregunta": "¿Tenéis stock de este cómic?",
+    "tipo": "Base",
+    "esperada": "¿Tenéis stock de este cómic?"
+  },
+  {
+    "pregunta": "¿Puedo reservar un producto sin stock?",
+    "tipo": "Base",
+    "esperada": "¿Puedo reservar un producto sin stock?"
+  },
+  {
+    "pregunta": "¿Dónde está mi pedido?",
+    "tipo": "Base",
+    "esperada": "¿Dónde está mi pedido?"
+  },
+  {
+    "pregunta": "¿Qué hago si mi pedido llega dañado?",
+    "tipo": "Base",
+    "esperada": "¿Qué hago si mi pedido llega dañado?"
+  },
+  {
+    "pregunta": "Soy nuevo en el mundo del cómic, ¿qué me recomendáis leer primero?",
+    "tipo": "Reformulada",
+    "esperada": "¿Qué cómics me recomiendas para empezar?"
+  },
+  {
+    "pregunta": "¿Cuáles son las novelas gráficas que más compra la gente?",
+    "tipo": "Reformulada",
+    "esperada": "¿Qué novelas gráficas son las más populares?"
+  },
+  {
+    "pregunta": "¿Disponéis de cómics adecuados para niños?",
+    "tipo": "Reformulada",
+    "esperada": "¿Tienen cómics para todas las edades?"
+  },
+  {
+    "pregunta": "¿Qué cómic está teniendo más éxito de ventas ahora mismo?",
+    "tipo": "Reformulada",
+    "esperada": "¿Cuál es el cómic más vendido actualmente?"
+  },
+  {
+    "pregunta": "¿Con qué formas de pago puedo comprar en vuestra tienda?",
+    "tipo": "Reformulada",
+    "esperada": "¿Qué métodos de pago aceptáis?"
+  },
+  {
+    "pregunta": "Si no me gusta un producto, ¿puedo devolverlo?",
+    "tipo": "Reformulada",
+    "esperada": "¿Puedo devolver un producto?"
+  },
+  {
+    "pregunta": "¿Cómo puedo saber si aún quedan unidades de un cómic?",
+    "tipo": "Reformulada",
+    "esperada": "¿Cómo puedo saber si un producto está disponible?"
+  },
+  {
+    "pregunta": "Si un cómic está agotado, ¿es posible apartarlo?",
+    "tipo": "Reformulada",
+    "esperada": "¿Puedo reservar un producto sin stock?"
+  },
+  {
+    "pregunta": "¿Cómo puedo localizar mi compra?",
+    "tipo": "Reformulada",
+    "esperada": "¿Dónde está mi pedido?"
+  },
+  {
+    "pregunta": "¿Qué debo hacer si recibo un cómic en mal estado?",
+    "tipo": "Reformulada",
+    "esperada": "¿Qué hago si mi pedido llega dañado?"
+  },
+  {
+    "pregunta": "Me gustan las historias de ciencia ficción, ¿qué cómic podría interesarme?",
+    "tipo": "Nueva",
+    "esperada": "¿Qué cómics me recomiendas para empezar?"
+  },
+  {
+    "pregunta": "¿Aceptáis tarjetas de crédito o débito para pagar?",
+    "tipo": "Nueva",
+    "esperada": "¿Qué métodos de pago aceptáis?"
+  },
+  {
+    "pregunta": "¿Enviáis pedidos a cualquier provincia del país?",
+    "tipo": "Nueva",
+    "esperada": "¿Realizáis envíos a todo el país?"
+  },
+  {
+    "pregunta": "¿Cómo sé si todavía os queda una copia disponible?",
+    "tipo": "Nueva",
+    "esperada": "¿Cómo puedo saber si un producto está disponible?"
+  },
+  {
+    "pregunta": "Si el cómic llega roto o en mal estado, ¿qué debo hacer?",
+    "tipo": "Nueva",
+    "esperada": "¿Qué hago si mi pedido llega dañado?"
+  }
+]
