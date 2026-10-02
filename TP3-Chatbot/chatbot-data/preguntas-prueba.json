@@ -85,7 +85,7 @@
     "esperada": "¿Cómo puedo saber si un producto está disponible?"
   },
   {
-    "pregunta": "Si un cómic está agotado, ¿es posible apartarlo?",
+    "pregunta": "Si un cómic está agotado, ¿es posible reservarlo?",
     "tipo": "Reformulada",
     "esperada": "¿Puedo reservar un producto sin stock?"
   },
